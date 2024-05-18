@@ -24,3 +24,4 @@ public class Factorial {
 }
 // 조건 연산자 사용하면 1줄로 구현
 // return(n>0) ? n*factorial(n-1) : 1;
+// 재귀함수에서 막힘!!!
